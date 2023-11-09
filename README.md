@@ -1,4 +1,4 @@
-# **<span class="smallcaps"><u>Fraudulent Transaction Detection App</u></span>**
+# **<span class="smallcaps"><u>Fraud Transaction Detection GenAI(CT-GAN) Powered AI App using AWS and ReactJS</u></span>**
 
 Welcome to the Transaction Detection App, a GenAI-based application for
 detecting fraudulent transactions using the CT-GAN machine learning
