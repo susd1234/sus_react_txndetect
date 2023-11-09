@@ -63,3 +63,11 @@ GET API call.
 
 <img src="./media/image1.png" style="width:6.26806in;height:2.40069in"
 alt="A diagram of a software application Description automatically generated" />
+
+**APP UI Diagram**
+
+<img src="./media/image2.png" style="width:6.26806in;height:2.40069in"
+alt="APP UI Upload" />
+
+<img src="./media/image3.png" style="width:6.26806in;height:2.40069in"
+alt="APP UI Inference Output" />
